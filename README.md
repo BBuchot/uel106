@@ -4,4 +4,5 @@ Exemple d'hébergement de site statique avec GitHub Pages
 - Utiliser Gitlab Pages
 
 ## Url d'hébergement
-url :
+url GitHub : https://bbuchot.github.io/uel106/
+url Hosting : https://buchot2.hosting.unilim.fr/uel106/
